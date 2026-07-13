@@ -1,4 +1,4 @@
-# Agentic RAG Project
+﻿# Agentic RAG Project
 
 A modern Agentic RAG (Retrieval-Augmented Generation) system built with Pydantic AI, FastAPI, and PostgreSQL (pgvector). This project provides a scalable, modular, and production-ready foundation for document-based AI applications.
 
@@ -56,7 +56,7 @@ A modern Agentic RAG (Retrieval-Augmented Generation) system built with Pydantic
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/m-shamim09/ntt-rag-project
+git clone https://github.com/agentic-saim09/ntt-rag-project
 cd ntt-rag-project
 ```
 
@@ -149,8 +149,8 @@ Apache2.0 License - See `LICENCE` for details.
 
 ## Author & Contact
 
-- **Author:** Muhammad Shamim
-- **GitHub:** [@m-shamim09](https://github.com/m-shamim09)
-- **Email:** [mshamim.work@gmail.com](mailto:mshamim.work@gmail.com)
-- **Profile:** https://github.com/m-shamim09
+- **Author:** Agentic Saim
+- **GitHub:** [@agentic-saim09](https://github.com/agentic-saim09)
+- **Email:** [agenticsaim.work@gmail.com](mailto:agenticsaim.work@gmail.com)
+- **Profile:** https://github.com/agentic-saim09
 
